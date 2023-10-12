@@ -4,7 +4,7 @@ Assignment 3: Essay on MLOps Lifecycle,
 including the integration of DevOps, 
 DataOps, and ModelOps
 
-       ------ SANTOSH BR
+       ------ SANTOSH BR (santublr@gmail.com)
 
 Preface: This document explains the need of MLOps Lifecycle including integration of DevOps, 
 DataOps and Model Ops.
